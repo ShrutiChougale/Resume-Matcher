@@ -17,3 +17,10 @@ Match percentage calculation using TF-IDF & cosine similarity
 Skill extraction and gap analysis
 
 Clean and responsive Streamlit-based UI
+
+You can access the deployed application here:
+
+🔗 Live App:
+https://resume-matcher-fmwcduxnpgdvzdcjhfwgwy.streamlit.app/
+
+The live version allows users to upload a resume, paste a job description, and instantly view the ATS-style match percentage along with skill gap analysis.
